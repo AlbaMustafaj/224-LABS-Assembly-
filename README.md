@@ -1,2 +1,4 @@
 # 224-LABS-Assembly-
-spring semester 2016-2017
+
+
+The following labs are individual and were completed during  spring semester 2016-2017 in computer organisation course.
